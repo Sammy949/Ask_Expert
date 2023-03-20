@@ -1,0 +1,22 @@
+Nigeria/Abuja
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+Afghanistan/Kabul
+Australia/Canberra
+Bangladesh/Dhaka
+DR Congo/Leopoldville
+Germany/Berlin
+Ghana/Accra
+Malaysia/Putrajaya
+Rwanda/Kigali
+Cameroon/Yaoundé
+South Africa/Pretoria
+Thailand/Bangkok
+Sierra Leone/Freetown
+Niger/Niamey
+Belgium/Brussels
+Usa/Washington DC
+Spain/Madrid
